@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "Jeffrey B. Storer",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "parcel": "latest",
     "process": "^0.11.10"
