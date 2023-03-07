@@ -1,0 +1,19 @@
+h1 {
+  color: green;
+  font-family: cursive;
+}
+
+h2 {
+  color: red
+}
+
+p {
+  color: blue;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.center {
+  text-align: center;
+}
