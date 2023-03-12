@@ -1,1 +1,1 @@
-export { default as ScoresTable}  from '@/components/scores/ScoresTable'
+export { default as ScoresTable } from '/src/components/scores/ScoresTable';

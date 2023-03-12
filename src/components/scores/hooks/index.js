@@ -1,1 +1,1 @@
-export { default as useGetScores } from '@/components/scores/hooks/useGetScores';
+export { default as useGetScores } from '/src/components/scores/hooks/useGetScores';

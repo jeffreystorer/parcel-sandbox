@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { get } from '@/components/common/utils';
+import { get } from '/packages/utils/localStorage';
 import { ScoresApi } from '/packages/apis';
 
 export default function useLookup() {

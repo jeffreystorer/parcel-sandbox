@@ -1,10 +1,9 @@
 import React, { useEffect, useState } from 'react';
 import { useLookup } from '/packages/apis/hooks';
-import { get, set } from '@/components/common/utils';
+import { get, set } from '/packages/utils/localStorage';
 
 export default function useLookupGolfer() {
   const [loading, setLoading] = useState(true);
-  const ghinNumber = get('ghinNumber');
   const [golfers, golfersLoading] = useLookup();
 
   useEffect(() => {
